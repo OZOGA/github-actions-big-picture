@@ -1,6 +1,6 @@
 name: build-test-deploy
 
-run_name: BTD
+run-name: BTD
 
 on: push
 
