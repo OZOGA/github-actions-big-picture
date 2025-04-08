@@ -1,5 +1,7 @@
 name: build-test-deploy
 
+run_name: BTD
+
 on: push
 
 jobs:
